@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
 - 👀 I’m interested in cloud native networking, service mesh, service discovery, cloud native security and zero trust networking
-- 🌱 I’m currently learning service mesh, envoy and contribution to opensource projects
-- 💞️ I’m looking to collaborate on service based networking, multi-cloud service mesh and zero trust networking
+- 🌱 I’m currently working on Kubernetes Networking, Service Mesh, Envoy and contribution to opensource projects
 - 📫 Reach me at a.basit3028@gmail.com
 
 <!---
