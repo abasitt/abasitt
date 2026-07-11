@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdul Basit
 - 👀 I’m interested in Kubernetes, Cloud/Kubernetes Networking, Cloud Native Security and Service Mesh
-- 🌱 I’m currently working on Kubernetes Networking, Service Mesh, Envoy and contribution to opensource projects
+- 🌱 I’m currently working on Kubernetes, Service Mesh, Envoy and contribution to opensource projects
 - 📫 Reach me at a.basit3028@gmail.com
 
 <!---
